@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\js\\about.js",
+      "PackagePath": "staticwebassets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\js\\dino.js",
+      "PackagePath": "staticwebassets\\js\\dino.js"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\js\\pong.js",
+      "PackagePath": "staticwebassets\\js\\pong.js"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\js\\snake.js",
+      "PackagePath": "staticwebassets\\js\\snake.js"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\ts\\about.ts",
+      "PackagePath": "staticwebassets\\ts\\about.ts"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\ts\\dino.ts",
+      "PackagePath": "staticwebassets\\ts\\dino.ts"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\ts\\index.ts",
+      "PackagePath": "staticwebassets\\ts\\index.ts"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\ts\\pong.ts",
+      "PackagePath": "staticwebassets\\ts\\pong.ts"
+    },
+    {
+      "Id": "C:\\Users\\m.berg\\RiderProjects\\Practice app\\Practice app\\wwwroot\\ts\\snake.ts",
+      "PackagePath": "staticwebassets\\ts\\snake.ts"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Practice app.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Practice app.props",
+      "PackagePath": "build\\Practice app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Practice app.props",
+      "PackagePath": "buildMultiTargeting\\Practice app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Practice app.props",
+      "PackagePath": "buildTransitive\\Practice app.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

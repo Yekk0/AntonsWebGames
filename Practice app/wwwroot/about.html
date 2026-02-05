@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Practice App</title>
+    <link rel="stylesheet" href="style.css?v=4.0">
+</head>
+<body>
+    <header>
+        <h1>game page</h1>
+        <p>This is the game page!</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Navigation</h2>
+            <p>You successfully navigated to the game page.</p>
+            <a href="index.html" class="btn">Back to Home</a>
+        </section>
+
+        <section>
+            <h2>Catch the Circle Minigame</h2>
+            <p>Click the circles to score points! The red circle gives 2 points, the green gives 1 point. Avoid the black circle, it takes 1 point away! The purple circle is a gamble. The "?" circle (Target 5) is a mimic: it copies the appearance and behavior of one of the other balls every time it moves! <strong>Reach 20 points to win!</strong></p>
+            <div id="game-stats">
+                Score: <span id="score">0</span> | 
+                Time: <span id="timer">60</span>s |
+                Winstreak: <span id="win-streak">0</span> |
+                <button onclick="startAboutGame()" class="btn" style="margin-top: 0; padding: 5px 10px;">Start Game</button>
+            </div>
+            <div id="game-container">
+                <div id="game-target">!</div>
+                <div id="game-target2">!</div>
+                <div id="game-target3">X</div>
+                <div id="game-target4">?</div>
+                <div id="game-target5">?</div>
+                <div id="game-over" style="display: none; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(255,255,255,0.9); padding: 20px; border-radius: 8px; text-align: center; z-index: 10; border: 2px solid #333;">
+                    <h3 id="game-result-title">Game Over!</h3>
+                    <p id="game-result-msg">Final Score: <span id="final-score">0</span></p>
+                    <button onclick="startAboutGame()" class="btn">Play Again</button>
+                </div>
+            </div>
+        </section>
+        <section>
+            <h2>Classic Pong</h2>
+            <p>First to 5 wins! Use your mouse, touch, or Arrow Keys (Up/Down) to move your paddle. Can you beat the AI?</p>
+            <div id="pong-stats">
+                Player: <span id="player-score" class="pong-score">0</span>
+                AI: <span id="ai-score" class="pong-score">0</span> |
+                <button onclick="startPong()" class="btn" style="margin-top: 0; padding: 5px 10px;">Start Game</button>
+            </div>
+            <div id="pong-container">
+                <canvas id="pong-canvas"></canvas>
+                <div id="pong-game-over">
+                    <h3 id="pong-result-title">Game Over!</h3>
+                    <p id="pong-result-msg"></p>
+                    <button onclick="startPong()" class="btn">Play Again</button>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Classic Snake</h2>
+            <p>Use the Arrow Keys to move the snake and eat the red food. Don't hit the walls or yourself!</p>
+            <div id="snake-stats">
+                Score: <span id="snake-score">0</span> | High Score: <span id="snake-high-score">0</span> |
+                <button onclick="startSnake()" class="btn" style="margin-top: 0; padding: 5px 10px;">Start Game</button>
+            </div>
+            <div id="snake-container">
+                <canvas id="snake-canvas"></canvas>
+                <div id="snake-game-over">
+                    <h3 id="snake-result-title">Game Over!</h3>
+                    <p id="snake-result-msg"></p>
+                    <button onclick="startSnake()" class="btn">Play Again</button>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Dino Run</h2>
+            <p>Press Space or Up Arrow to jump over the obstacles! How long can you survive?</p>
+            <div id="dino-stats">
+                Score: <span id="dino-score">0</span> | High Score: <span id="dino-high-score">0</span> |
+                <button onclick="startDino()" class="btn" style="margin-top: 0; padding: 5px 10px;">Start Game</button>
+            </div>
+            <div id="dino-container">
+                <canvas id="dino-canvas"></canvas>
+                <div id="dino-game-over" style="display: none; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(255,255,255,0.9); padding: 20px; border-radius: 8px; text-align: center; z-index: 10; border: 2px solid #333; color: #000;">
+                    <h3 id="dino-result-title">Game Over!</h3>
+                    <p id="dino-result-msg"></p>
+                    <button onclick="startDino()" class="btn">Play Again</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p class="footer-note highlight-text">Happy game!</p>
+    </footer>
+
+    <script src="js/about.js"></script>
+    <script src="js/pong.js"></script>
+    <script src="js/snake.js"></script>
+    <script src="js/dino.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+﻿{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./wwwroot/js",
+    "rootDir": "./wwwroot/ts",
+    "lib": ["DOM", "ES2016"]
+  },
+  "include": ["wwwroot/ts/**/*.ts"]
+}

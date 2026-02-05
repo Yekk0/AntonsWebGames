@@ -1,0 +1,25 @@
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\bin\Debug\net8.0\Practice app.staticwebassets.runtime.json
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\bin\Debug\net8.0\Practice app.exe
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\bin\Debug\net8.0\Practice app.deps.json
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\bin\Debug\net8.0\Practice app.runtimeconfig.json
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\bin\Debug\net8.0\Practice app.dll
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\bin\Debug\net8.0\Practice app.pdb
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\Practice app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\Practice app.AssemblyInfoInputs.cache
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\Practice app.AssemblyInfo.cs
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\Practice app.csproj.CoreCompileInputs.cache
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\Practice app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\staticwebassets\msbuild.Practice app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\staticwebassets\msbuild.build.Practice app.props
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practice app.props
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practice app.props
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\scopedcss\bundle\Practice app.styles.css
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\Practice app.dll
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\refint\Practice app.dll
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\Practice app.pdb
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\Practice app.genruntimeconfig.cache
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\obj\Debug\net8.0\ref\Practice app.dll
+C:\Users\m.berg\RiderProjects\Practice app\Practice app\bin\Debug\net8.0\tsconfig.json
